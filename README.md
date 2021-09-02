@@ -1,1 +1,1 @@
-# Plugin-WP-de-orcamento-via-whatsapp
+# Plugin WordPress de orcamento via Whatsapp
